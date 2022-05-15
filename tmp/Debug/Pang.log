@@ -1,0 +1,13 @@
+﻿  CoordinadorAjedrez.cpp
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\CoordinadorAjedrez.cpp(72,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Interaccion.cpp
+  ListaCaballosN.cpp
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\ListaCaballosN.cpp(22,21): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  Mundo.cpp
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\Mundo.cpp(45,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\Mundo.cpp(123,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\Mundo.cpp(128,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Ajedrez.cpp
+  Generando código...
+C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\src\ListaCaballosN.cpp(89): warning C4715: 'ListaCaballosN::selC': no todas las rutas de acceso de control devuelven un valor
+  Pang.vcxproj -> C:\Users\kikem\Downloads\EquipoZ-main222\EquipoZ-main\bin\AJEDREZ.exe
